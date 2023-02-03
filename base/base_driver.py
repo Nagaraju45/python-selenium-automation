@@ -32,3 +32,4 @@ class BaseDriver():
         wait = WebDriverWait(self.driver, 20)
         element = wait.until(EC.element_to_be_clickable((locator_type, locator)))
         return element
+# Some Text SDET1
