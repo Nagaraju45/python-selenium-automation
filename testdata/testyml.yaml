@@ -1,0 +1,7 @@
+---
+test1:
+  goingfrom: Mumbai
+  goingto: JFK
+  date: 25/01/2023
+  stops: 1 Stop
+...
