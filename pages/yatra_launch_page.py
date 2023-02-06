@@ -3,9 +3,9 @@ import time
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 
-from testFramework.base.base_driver import BaseDriver
-from testFramework.pages import search_flights_results_page
-from testFramework.utilities.utils import Utils
+from sdet1_python_selenium.base.base_driver import BaseDriver
+from sdet1_python_selenium.pages import search_flights_results_page
+from sdet1_python_selenium.utilities.utils import Utils
 
 
 class LaunchPage(BaseDriver):

@@ -1,7 +1,7 @@
 import pytest
 import softest
-from testFramework.pages.yatra_launch_page import LaunchPage
-from testFramework.utilities.utils import Utils
+from sdet1_python_selenium.pages.yatra_launch_page import LaunchPage
+from sdet1_python_selenium.utilities.utils import Utils
 from ddt import ddt, data, file_data, unpack
 
 
