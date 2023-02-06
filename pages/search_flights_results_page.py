@@ -1,7 +1,7 @@
 import logging
 from selenium.webdriver.common.by import By
-from testFramework.base.base_driver import BaseDriver
-from testFramework.utilities.utils import Utils
+from sdet1_python_selenium.base.base_driver import BaseDriver
+from sdet1_python_selenium.utilities.utils import Utils
 
 
 class SearchFlightsResult(BaseDriver):
